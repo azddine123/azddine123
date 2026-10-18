@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit the values and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "AI / Machine Learning",   "value": 82 },
+    { "label": "LLMs & RAG",              "value": 80 },
+    { "label": "Threat Detection / SIEM", "value": 84 },
+    { "label": "Network Security",        "value": 76 },
+    { "label": "Backend & APIs",          "value": 80 },
+    { "label": "Mobile (React Native)",   "value": 78 },
+    { "label": "Data Analysis",           "value": 75 }
+  ]
+}
