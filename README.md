@@ -17,7 +17,7 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://azddine123.github.io"><img src="https://img.shields.io/badge/Portfolio-aa9bef?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Portfolio"></a>&nbsp;&nbsp;
+<a href="https://azddineelhamdaoui.engineer"><img src="https://img.shields.io/badge/Portfolio-aa9bef?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Portfolio"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/azddine-elhamdaoui/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="mailto:azddine02elhamdaoui@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=aa9bef" alt="Gmail"></a>
 
